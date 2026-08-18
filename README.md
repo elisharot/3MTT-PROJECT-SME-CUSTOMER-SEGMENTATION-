@@ -65,20 +65,20 @@ Sales Amount =
 The raw transaction data was cleaned before analysis using Power Query.
 
 ## Cleaning steps
--Removed blank rows
--Removed transactions with missing Customer IDs
--Converted InvoiceDate to Date/Time
--Converted Quantity to numeric
--Converted Price to numeric
-=Converted StockCode to Text
- Preserved StockCodes containing both letters and numbers
--Removed negative/zero quantities
--Removed negative/zero prices
--Removed cancelled transactions
--Removed exact duplicate transaction records
--Standardized text fields
--Created a customer dimension containing unique Customer IDs
--Important consideration
+- Removed blank rows
+- Removed transactions with missing Customer IDs
+- Converted InvoiceDate to Date/Time
+- Converted Quantity to numeric
+- Converted Price to numeric
+- Converted StockCode to Text
+ - Preserved StockCodes containing both letters and numbers
+- Removed negative/zero quantities
+- Removed negative/zero prices
+- Removed cancelled transactions
+- Removed exact duplicate transaction records
+- Standardized text fields
+- Created a customer dimension containing unique Customer IDs
+- Important consideration
 
 Negative quantities in the Online Retail dataset can represent returns or cancelled transactions. These were excluded from the main RFM sales analysis so that customer value would not be distorted.
 
