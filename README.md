@@ -1,4 +1,4 @@
-# 3MTT-PROJECT-SME-CUSTOMER-SEGMENTATION-
+## SME-CUSTOMER-SEGMENTATION-
 ## Online Retail II — Customer Segmentation & RFM Analysis
 ## Project Overview
 
