@@ -7,26 +7,6 @@ This project analyzes the Online Retail II dataset using Microsoft Power BI to u
 The project combines data cleaning, sales analysis, RFM analysis, and customer segmentation to transform raw retail transaction data into an interactive business intelligence dashboard.
 
 The main objective is to identify valuable customer groups, understand sales trends, and provide insights that can support customer retention and marketing strategies.
-
-## Dashboard Preview
- ### SME Customer Segmentation Dashboard
-
- 
-
-<img width="1351" height="761" alt="Dashboard" src="https://github.com/user-attachments/assets/432619fc-7c4d-4dcd-a745-bd050b9b258c" />
-
-- The dashboard provides an interactive overview of:
-
-- Total customers
-- Total sales
-- Average sales per customer
-- Number of customer segments
-- Customers by segment
-- Sales by segment
--Top products/customers
--Sales by country
--Monthly sales trends
--Country, year, month, and customer-segment filters
   # Business Objectives
 
 The analysis was designed to answer the following business questions:
@@ -45,14 +25,12 @@ The analysis was designed to answer the following business questions:
 The project uses the Online Retail II transaction dataset.
 
 The dataset contains retail transactions with information such as:
-
-- Column	Description
 - Invoice	Transaction/invoice number
--StockCode	Product identifier
--Description	Product description
--Quantity	Number of units purchased
--InvoiceDate	Transaction date and time
-- Price	Unit price
+- StockCode/	Product identifier
+- Description	/Product description
+- Quantity	/Number of units purchased
+- InvoiceDate	/Transaction date and time
+- Price	/Unit price
 - Customer ID	Customer identifier
 - Country	Customer's country
 
@@ -128,8 +106,23 @@ The segmentation framework includes categories such as:
 
 The exact number of segments displayed in the dashboard depends on the final segmentation rules implemented in Power BI.
 
-# Dashboard KPIs
+## Dashboard Preview
+ ### SME Customer Segmentation Dashboard
 
+<img width="1351" height="761" alt="Dashboard" src="https://github.com/user-attachments/assets/432619fc-7c4d-4dcd-a745-bd050b9b258c" />
+
+- The dashboard provides an interactive overview of:
+
+- Total customers
+- Total sales
+- Average sales per customer
+- Number of customer segments
+- Customers by segment
+- Sales by segment
+-Top products/customers
+-Sales by country
+-Monthly sales trends
+-Country, year, month, and customer-segment filters
 The dashboard contains four primary KPI cards.
 
 - Total Customers
@@ -238,7 +231,6 @@ The project uses a simple analytical model:
 Microsoft Power BI
 Power Query
 DAX
-Microsoft Excel
 GitHub
 Skills demonstrated
 Data cleaning
@@ -262,7 +254,7 @@ VIP and high-value loyal customers should receive retention-focused strategies b
 
 Customers with high historical value but declining recency can be targeted with personalized offers, loyalty incentives, or re-engagement campaigns.
 
-- New customer opportunities
+- VIP customer opportunities
 
 Recent customers with low frequency represent opportunities to encourage a second or third purchase.
 
