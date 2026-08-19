@@ -108,7 +108,8 @@ The exact number of segments displayed in the dashboard depends on the final seg
 
 ## Dashboard Preview
  ### SME Customer Segmentation Dashboard
-<img width="1207" height="682" alt="Dashboard1" src="https://github.com/user-attachments/assets/6ce7a9a6-3a72-429e-ad59-0d2bcf740d41" />
+<img width="1207" height="682" alt="Screenshot 2026-08-19 160115" src="https://github.com/user-attachments/assets/76d8b825-31e7-4609-98d1-b2a92064bca0" />
+
 - The dashboard provides an interactive overview of:
 
 - Total customers
@@ -264,13 +265,13 @@ Countries with strong sales performance can be prioritized for expansion, while 
 
 Monthly sales patterns can help businesses understand seasonality and improve inventory, marketing, and promotional planning.
 # CONCLUSION
-## Customer segmentation provides a clear view of customer value.
+- Customer segmentation provides a clear view of customer value.
 The RFM analysis identifies differences in customer behavior based on Recency, Frequency, and Monetary value, helping the business distinguish valuable, loyal, new, and at-risk customers.
-## The Power BI dashboard brings sales and customer insights together.
+- The Power BI dashboard brings sales and customer insights together.
 The dashboard makes it easy to monitor total customers, total sales, average sales per customer, segment performance, top customers, monthly sales trends, and country-level sales, supporting faster and more informed business decisions.
 # Recommendations
-## Prioritize retention of high-value and at-risk customers.
+- Prioritize retention of high-value and at-risk customers.
 Focus marketing campaigns on VIP/Champions and At-Risk High-Value customers using personalized offers, loyalty rewards, and targeted re-engagement campaigns. These customers have the greatest potential impact on revenue.
-## Develop targeted strategies for different customer segments.
+- Develop targeted strategies for different customer segments.
 New and Potential Loyalist customers should receive incentives that encourage repeat purchases, while Lost customers can be targeted with reactivation campaigns. Sales trends and country performance should also be reviewed regularly to identify opportunities for growth and expansion.
 
