@@ -89,7 +89,8 @@ Customer C	2	2	2	222
 Customer D	1	1	1	111
 
 A score of 555 represents a highly valuable customer, while 111 represents a low-engagement customer.
-<img width="892" height="750" alt="Dashboard 2" src="https://github.com/user-attachments/assets/41fe04c1-caa1-4625-b2e0-e
+<img width="892" height="750" alt="Dashboard 2" src="https://github.com/user-attachments/assets/eabb6098-d594-43a5-9f14-3ccde07c0a99" />
+
 
 ## Customer Segmentation
 
