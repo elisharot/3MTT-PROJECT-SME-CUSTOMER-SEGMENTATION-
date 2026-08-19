@@ -89,7 +89,7 @@ Customer C	2	2	2	222
 Customer D	1	1	1	111
 
 A score of 555 represents a highly valuable customer, while 111 represents a low-engagement customer.
-<img width="892" height="750" alt="Dashboard 2" src="https://github.com/user-attachments/assets/41fe04c1-caa1-4625-b2e0-e8fb7bf9b5dc" />
+<img width="892" height="750" alt="Dashboard 2" src="https://github.com/user-attachments/assets/41fe04c1-caa1-4625-b2e0-e
 
 ## Customer Segmentation
 
@@ -108,9 +108,7 @@ The exact number of segments displayed in the dashboard depends on the final seg
 
 ## Dashboard Preview
  ### SME Customer Segmentation Dashboard
-
-<img width="1351" height="761" alt="Dashboard" src="https://github.com/user-attachments/assets/432619fc-7c4d-4dcd-a745-bd050b9b258c" />
-
+<img width="1207" height="682" alt="Dashboard1" src="https://github.com/user-attachments/assets/6ce7a9a6-3a72-429e-ad59-0d2bcf740d41" />
 - The dashboard provides an interactive overview of:
 
 - Total customers
